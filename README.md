@@ -42,5 +42,5 @@ The website architecture has been meticulously organized to ensure both modulari
    git clone <repository_link>
 2. **Journey to the Project's Heart**:
    ```bash
-cd <project_directory_name>
+   cd <project_directory_name>
 
