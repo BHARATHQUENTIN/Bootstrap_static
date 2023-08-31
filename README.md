@@ -40,7 +40,7 @@ The website architecture has been meticulously organized to ensure both modulari
 1. **Clone the Repository**:  
    ```bash
    git clone <repository_link>
-   ## Journey to the Project's Heart:
-```bash
+2. **Journey to the Project's Heart**:
+   ```bash
 cd <project_directory_name>
 
