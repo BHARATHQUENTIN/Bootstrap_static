@@ -6,7 +6,7 @@ Elevate your web experience with this contemporary, responsive, and visually app
 
 - [Structure](#structure)
 - [Features](#features)
-- [License](#license)
+- [Usage](#Usage)
 
 ---
 
